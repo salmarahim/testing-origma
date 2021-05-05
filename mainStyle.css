@@ -1,0 +1,170 @@
+body{
+background-color: #222222
+}
+
+.header {
+background-color:#444444;
+display: flex;
+justify-content: space-between;
+font-size: 20px;
+margin-bottom: 20px;
+}
+
+.header h1{
+padding-left: 20px;
+}
+
+.header a{
+padding-right: 20px;
+padding-top: 35px;
+}
+
+.header a:link{
+color: #ffffff;
+}
+
+.header a:hover{
+    color: #ffffff
+}
+
+.header a:visited{
+color: #ffffff;
+}
+
+body {
+    color: white;
+}
+
+.origami{
+display: flex;
+flex-wrap: wrap;
+justify-content: space-evenly;
+}
+
+.camel {
+position: relative;
+}
+
+.camel h3{
+    position: absolute;
+    top:30%;
+    left:30%;
+    transform: translate(-50%,-50%);
+    opacity:0;
+}
+
+.camel:hover h3{
+opacity:1;
+}
+
+.camel:hover img{
+    filter: grayscale(100%);
+    opacity:0.5;
+    }
+
+    .chameleon {
+        position: relative;
+        }
+        
+        .chameleon h3{
+            position: absolute;
+            top:30%;
+            left:30%;
+            transform: translate(-50%,-50%);
+            opacity:0;
+        }
+        
+        .chameleon:hover h3{
+        opacity:1;
+        }
+        
+        .chameleon:hover img{
+            filter: grayscale(100%);
+            opacity:0.5;
+            }
+
+            .panda {
+                position: relative;
+                }
+                
+                .panda h3{
+                    position: absolute;
+                    top:30%;
+                    left:30%;
+                    transform: translate(-50%,-50%);
+                    opacity:0;
+                }
+                
+                .panda:hover h3{
+                opacity:1;
+                }
+                
+                .panda:hover img{
+                    filter: grayscale(100%);
+                    opacity:0.5;
+                    }
+
+                    .pigeon{
+                        position: relative;
+                        }
+                        
+                        .pigeon h3{
+                            position: absolute;
+                            top:30%;
+                            left:30%;
+                            transform: translate(-50%,-50%);
+                            opacity:0;
+                        }
+                        
+                        .pigeon:hover h3{
+                        opacity:1;
+                        }
+                        
+                        .pigeon:hover img{
+                            filter: grayscale(100%);
+                            opacity:0.5;
+                            }
+
+                            .flyingcicada {
+                                position: relative;
+                                }
+                                
+                                .flyingcicada h3{
+                                    position: absolute;
+                                    top:30%;
+                                    left:30%;
+                                    transform: translate(-50%,-50%);
+                                    opacity:0;
+                                }
+                                
+                                .flyingcicada:hover h3{
+                                opacity:1;
+                                }
+                                
+                                .flyingcicada:hover img{
+                                    filter: grayscale(100%);
+                                    opacity:0.5;
+                                    }
+                                    .teddy {
+                                        position: relative;
+                                        }
+                                        
+                                        .teddy h3{
+                                            position: absolute;
+                                            top:30%;
+                                            left:30%;
+                                            transform: translate(-50%,-50%);
+                                            opacity:0;
+                                        }
+                                        
+                                        .teddy:hover h3{
+                                        opacity:1;
+                                        }
+                                        
+                                        .teddy:hover img{
+                                            filter: grayscale(100%);
+                                            opacity:0.5;
+                                            }
+        
+                                
+    
